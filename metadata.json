@@ -1,0 +1,5 @@
+{
+  "name": "PyroFlow: Advanced Fire Dynamics",
+  "description": "A high-fidelity, multi-floor fire spread and smoke diffusion simulation using cellular automata and fluid dynamics approximations. Features real-time visualization and AI-powered hazard analysis.",
+  "requestFramePermissions": []
+}
